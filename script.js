@@ -98,7 +98,7 @@ function tapLove(id) {
         () => {
           const fromTag = document.createElement("div");
           fromTag.id = 'fromTag';
-          fromTag.textContent = "From: Nguyễn Hoàng Phú Hưng 10B6";
+          fromTag.textContent = "From: Ngô Lê Trọng Tín ";
           fromTag.style.marginTop = "20px";
           fromTag.style.opacity = "0";
           fromTag.style.transition = "opacity 1s ease";
